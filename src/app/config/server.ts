@@ -1,1 +1,1 @@
-export const serverurl="http://localhost:9000/coursemgt"
+export const serverurl="https://courseprg.onrender.com/coursemgt"
